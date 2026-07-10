@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.11.0](https://github.com/terraform-aws-modules/terraform-aws-opensearch/compare/v2.10.0...v2.11.0) (2026-07-10)
+
+### Features
+
+* Support serverless collection `vector_options.serverless_vector_acceleration` ([#58](https://github.com/terraform-aws-modules/terraform-aws-opensearch/issues/58)) ([f75c011](https://github.com/terraform-aws-modules/terraform-aws-opensearch/commit/f75c0113e941c4d968d81154196225d43d609721))
+
 ## [2.10.0](https://github.com/terraform-aws-modules/terraform-aws-opensearch/compare/v2.9.0...v2.10.0) (2026-06-14)
 
 ### Features
