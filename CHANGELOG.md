@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.11.1](https://github.com/terraform-aws-modules/terraform-aws-opensearch/compare/v2.11.0...v2.11.1) (2026-08-23)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#59](https://github.com/terraform-aws-modules/terraform-aws-opensearch/issues/59)) ([b85eb8a](https://github.com/terraform-aws-modules/terraform-aws-opensearch/commit/b85eb8a2b292d1e7daba45d3e1e6d69096b8ce54))
+
 ## [2.11.0](https://github.com/terraform-aws-modules/terraform-aws-opensearch/compare/v2.10.0...v2.11.0) (2026-07-10)
 
 ### Features
